@@ -1,23 +1,25 @@
 about:
-  description: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+  description:
+  |
+    Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   license: MIT
   homepage: https://ollama.com
-  head: b79067b
+  head: 59fe23d
   archived: false
-  latestVersion: v0.33.3-rc2
-  collectedAt: 2026-09-03T05:14:34Z
+  latestVersion: v0.33.3
+  collectedAt: 2026-09-03T22:37:21Z
 timeline:
   created: 2023-06-26
-  lastCommit: 2026-09-02
+  lastCommit: 2026-09-03
   lastRelease: 2026-09-02
 popularity:
-  star: 180007
+  star: 180072
   watcher: 1009
-  fork: 17668
+  fork: 17670
   release: 250
   contributor: 615
-  pullRequest: 3082
-  issue: 11132
+  pullRequest: 3084
+  issue: 11142
 language:
   Go: 9847264
   C: 2953098
@@ -34,37 +36,37 @@ language:
   AppleScript: 1828
   CSS: 1403
   JavaScript: 1304
-totalLine: 13874301
+totalBytes: 13874301
 recent:
   last30d:
     since: 2026-08-04
     release: 14
-    mergedPR: 90
-    openPR: 243
-    closedIssue: 99
-    openIssue: 149
-    commit: 101
+    mergedPR: 91
+    openPR: 245
+    closedIssue: 102
+    openIssue: 156
+    commit: 102
   last90d:
     since: 2026-06-05
     release: 29
-    mergedPR: 219
-    openPR: 564
-    closedIssue: 331
-    openIssue: 339
-    commit: 256
+    mergedPR: 220
+    openPR: 566
+    closedIssue: 334
+    openIssue: 346
+    commit: 257
   last180d:
     since: 2026-03-07
     release: 61
-    mergedPR: 493
-    openPR: 941
-    closedIssue: 911
-    openIssue: 723
-    commit: 547
+    mergedPR: 494
+    openPR: 943
+    closedIssue: 914
+    openIssue: 730
+    commit: 548
   last360d:
     since: 2025-09-08
     release: 100
-    mergedPR: 1067
-    openPR: 1201
-    closedIssue: 1893
-    openIssue: 1114
-    commit: 1163
+    mergedPR: 1068
+    openPR: 1203
+    closedIssue: 1896
+    openIssue: 1121
+    commit: 1164
