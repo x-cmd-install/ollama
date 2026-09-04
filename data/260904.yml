@@ -1,0 +1,72 @@
+about:
+  description:
+  |
+    Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+  license: MIT
+  homepage: https://ollama.com
+  head: b68365a
+  archived: false
+  latestVersion: v0.33.3
+  collectedAt: 2026-09-04T04:54:06Z
+timeline:
+  created: 2023-06-26
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-02
+popularity:
+  star: 180099
+  watcher: 1010
+  fork: 17672
+  release: 250
+  contributor: 615
+  pullRequest: 3086
+  issue: 11144
+language:
+  Go: 9869915
+  C: 2954065
+  TypeScript: 566718
+  C++: 140352
+  Objective-C: 100981
+  CMake: 99991
+  PowerShell: 62525
+  Shell: 57075
+  Dockerfile: 14256
+  Inno Setup: 12924
+  Go Template: 8744
+  HTML: 6310
+  AppleScript: 1828
+  CSS: 1403
+  JavaScript: 1304
+totalBytes: 13898391
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 13
+    mergedPR: 88
+    openPR: 244
+    closedIssue: 103
+    openIssue: 156
+    commit: 104
+  last90d:
+    since: 2026-06-06
+    release: 28
+    mergedPR: 220
+    openPR: 558
+    closedIssue: 324
+    openIssue: 341
+    commit: 259
+  last180d:
+    since: 2026-03-08
+    release: 61
+    mergedPR: 495
+    openPR: 940
+    closedIssue: 907
+    openIssue: 727
+    commit: 550
+  last360d:
+    since: 2025-09-09
+    release: 100
+    mergedPR: 1063
+    openPR: 1205
+    closedIssue: 1892
+    openIssue: 1120
+    commit: 1166
