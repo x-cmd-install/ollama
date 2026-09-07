@@ -5,19 +5,19 @@ about:
   head: 83ed7d9
   archived: false
   latestVersion: "v0.34.0-rc1"
-  collectedAt: 2026-09-07T05:02:50Z
+  collectedAt: 2026-09-07T19:21:11Z
 timeline:
   created: 2023-06-26
   lastCommit: 2026-09-05
   lastRelease: 2026-09-05
 popularity:
-  star: 180339
-  watcher: 1014
-  fork: 17735
+  star: 180403
+  watcher: 1013
+  fork: 17750
   release: 251
   contributor: 611
-  pullRequest: 6703
-  issue: 11162
+  pullRequest: 6713
+  issue: 11169
 language:
   Go: 10340827
   C: 2954065
@@ -40,60 +40,60 @@ recent:
     since: 2026-08-08
     release: 14
     mergedPR: 88
-    openPR: 255
-    closedIssue: 111
-    openIssue: 145
+    openPR: 264
+    closedIssue: 114
+    openIssue: 149
     commit: 84
   last60d:
     since: 2026-07-09
     release: 21
     mergedPR: 160
-    openPR: 426
-    closedIssue: 195
-    openIssue: 251
+    openPR: 435
+    closedIssue: 198
+    openIssue: 255
     commit: 187
   last90d:
     since: 2026-06-09
     release: 28
     mergedPR: 219
-    openPR: 565
-    closedIssue: 316
-    openIssue: 328
+    openPR: 574
+    closedIssue: 319
+    openIssue: 332
     commit: 253
   last180d:
     since: 2026-03-11
     release: 61
     mergedPR: 489
-    openPR: 949
-    closedIssue: 900
-    openIssue: 720
+    openPR: 958
+    closedIssue: 903
+    openIssue: 724
     commit: 528
   last360d:
     since: 2025-09-12
     release: 100
     mergedPR: 1056
-    openPR: 1223
-    closedIssue: 1894
-    openIssue: 1113
+    openPR: 1232
+    closedIssue: 1897
+    openIssue: 1117
     commit: 1148
   last720d:
     since: 2024-09-17
     release: 100
     mergedPR: 1943
-    openPR: 1417
-    closedIssue: 4950
-    openIssue: 1893
+    openPR: 1426
+    closedIssue: 4953
+    openIssue: 1897
     commit: 2237
 total:
   release: 251
   mergedPR: 3593
-  openPR: 1443
-  closedIssue: 8688
-  openIssue: 2474
+  openPR: 1452
+  closedIssue: 8691
+  openIssue: 2478
   commit: 5722
 ---
 path: /home/runner/.x-repo/github.com/ollama/ollama
-collectedAt: 2026-09-07T05:03:03Z
+collectedAt: 2026-09-07T19:21:23Z
 loc:
   Go:
     code: 288731
@@ -219,7 +219,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:03:09+00:00
+  collectedAt: 2026-09-07T19:21:24+00:00
   platform:
     darwin/arm64:
       name:  ollama-darwin.tgz
