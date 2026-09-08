@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22627,
       "digest": "sha256:8b0882ca390fc06629ef24e2b821159ec64c6e328b602fef5ffa87f26d4f02e1",
-      "download_count": 28343,
+      "download_count": 29076,
       "created_at": "2026-09-03T17:14:31Z",
       "updated_at": "2026-09-03T17:14:31Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/install.ps1"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15902,
       "digest": "sha256:25f64b810b947145095956533e1bdf56eacea2673c55a7e586be4515fc882c9f",
-      "download_count": 112573,
+      "download_count": 115408,
       "created_at": "2026-09-03T17:14:32Z",
       "updated_at": "2026-09-03T17:14:32Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/install.sh"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 159236337,
       "digest": "sha256:342db03df80bb9db84ff64246031bd5f70c09b59ff52fa5cc9aaae3476cc4a9d",
-      "download_count": 3405,
+      "download_count": 3479,
       "created_at": "2026-09-03T17:14:22Z",
       "updated_at": "2026-09-03T17:14:26Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-darwin.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 195743544,
       "digest": "sha256:335f1a11299f5f60dc2d5f2651cf12af9d3c303812c68e978be3e45ea7d6eaf4",
-      "download_count": 674809,
+      "download_count": 691747,
       "created_at": "2026-09-03T17:14:17Z",
       "updated_at": "2026-09-03T17:14:22Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/Ollama-darwin.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1226720499,
       "digest": "sha256:cb0861fb4945de88acafa8b268b57024b52ad5ca3caabb56aa3cdff82a1ad512",
-      "download_count": 193,
+      "download_count": 197,
       "created_at": "2026-09-03T17:14:23Z",
       "updated_at": "2026-09-03T17:14:51Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-linux-amd64-mlx.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1049046551,
       "digest": "sha256:b28d49ba28c6d0bc87f7d77f194b4b03941844df02f3672d8273b659925a7834",
-      "download_count": 9336,
+      "download_count": 9507,
       "created_at": "2026-09-03T17:14:24Z",
       "updated_at": "2026-09-03T17:14:52Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-linux-amd64-rocm.tar.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1433825108,
       "digest": "sha256:c13cea8f3389db4145f8a6cb88d1747242a48639d7c13e3bda7c1ebdc6eebb2f",
-      "download_count": 105795,
+      "download_count": 108555,
       "created_at": "2026-09-03T17:14:25Z",
       "updated_at": "2026-09-03T17:15:05Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-linux-amd64.tar.zst"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 296854026,
       "digest": "sha256:6ccf1a78ccf46f804eb84f0febb9df5a6a8236a1209abf94ef7da994fd88f150",
-      "download_count": 173,
+      "download_count": 177,
       "created_at": "2026-09-03T17:14:26Z",
       "updated_at": "2026-09-03T17:14:35Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-linux-arm64-jetpack5.tar.zst"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 270784770,
       "digest": "sha256:c5b4065f2f9f2eae4aa3ef90b3f8b08b9b23f6c225724d13f2097fb667072c1c",
-      "download_count": 397,
+      "download_count": 408,
       "created_at": "2026-09-03T17:14:27Z",
       "updated_at": "2026-09-03T17:14:36Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-linux-arm64-jetpack6.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1554076220,
       "digest": "sha256:4425a112af999ae6572c1ce211fbabeaca7bab23ed5860972acdfc0cc2358420",
-      "download_count": 10595,
+      "download_count": 10863,
       "created_at": "2026-09-03T17:14:28Z",
       "updated_at": "2026-09-03T17:15:10Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-linux-arm64.tar.zst"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1402571636,
       "digest": "sha256:2bc0dbc6fcd233c11b53fc60d0b5d7e3f51720436fe999957797758cb2a0ad14",
-      "download_count": 212,
+      "download_count": 217,
       "created_at": "2026-09-03T17:14:18Z",
       "updated_at": "2026-09-03T17:14:54Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-windows-amd64-mlx.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 247261231,
       "digest": "sha256:e68674ba13c5cefe2953613f580eb7f29ec79605c6832418c59e50f3f372fcdf",
-      "download_count": 605,
+      "download_count": 627,
       "created_at": "2026-09-03T17:14:19Z",
       "updated_at": "2026-09-03T17:14:25Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-windows-amd64-rocm.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1469175900,
       "digest": "sha256:52cb36a62e7e501f61514f60212dec7117b6c098811357585e02fffe32d2fcd7",
-      "download_count": 21551,
+      "download_count": 22193,
       "created_at": "2026-09-03T17:14:20Z",
       "updated_at": "2026-09-03T17:15:10Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-windows-amd64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 210648637,
       "digest": "sha256:98b9ddaab6baece0418c6d1231526eb1e4e66944985e0a8eeb7d6171bcd7b6d8",
-      "download_count": 789,
+      "download_count": 824,
       "created_at": "2026-09-03T17:14:21Z",
       "updated_at": "2026-09-03T17:14:27Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/ollama-windows-arm64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 196424896,
       "digest": "sha256:cc21bd6a1486ddff3cdcbf00549f61d0a3e6e6893d6456a12d37c486161bcc43",
-      "download_count": 26440,
+      "download_count": 27089,
       "created_at": "2026-09-03T17:14:30Z",
       "updated_at": "2026-09-03T17:14:35Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/Ollama.dmg"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1573069568,
       "digest": "sha256:32cdcb1da477bc7fffbf1c1cdeeb99b1db003af094db56dd3c156abd04d34f8e",
-      "download_count": 719265,
+      "download_count": 737752,
       "created_at": "2026-09-03T17:14:29Z",
       "updated_at": "2026-09-03T17:15:06Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/OllamaSetup.exe"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1472,
       "digest": "sha256:0a8031da6ae3ad8058f4690c19c75ec6ab6250db032e4c6c5186a36485685255",
-      "download_count": 2538,
+      "download_count": 2606,
       "created_at": "2026-09-03T17:14:16Z",
       "updated_at": "2026-09-03T17:14:16Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.33.3/sha256sum.txt"

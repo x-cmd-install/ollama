@@ -5,19 +5,19 @@ about:
   head: 83ed7d9
   archived: false
   latestVersion: "v0.34.0-rc1"
-  collectedAt: 2026-09-08T02:20:35Z
+  collectedAt: 2026-09-08T05:03:45Z
 timeline:
   created: 2023-06-26
   lastCommit: 2026-09-05
   lastRelease: 2026-09-05
 popularity:
-  star: 180424
+  star: 180432
   watcher: 1014
-  fork: 17760
+  fork: 17762
   release: 251
   contributor: 611
-  pullRequest: 6719
-  issue: 11170
+  pullRequest: 6720
+  issue: 11172
 language:
   Go: 10340827
   C: 2954065
@@ -40,60 +40,60 @@ recent:
     since: 2026-08-09
     release: 14
     mergedPR: 87
-    openPR: 267
-    closedIssue: 123
-    openIssue: 135
+    openPR: 268
+    closedIssue: 124
+    openIssue: 136
     commit: 84
   last60d:
     since: 2026-07-10
     release: 21
     mergedPR: 160
-    openPR: 438
-    closedIssue: 206
-    openIssue: 243
+    openPR: 439
+    closedIssue: 207
+    openIssue: 244
     commit: 187
   last90d:
     since: 2026-06-10
     release: 28
     mergedPR: 219
-    openPR: 576
-    closedIssue: 327
-    openIssue: 322
+    openPR: 577
+    closedIssue: 328
+    openIssue: 323
     commit: 253
   last180d:
     since: 2026-03-12
     release: 61
     mergedPR: 486
-    openPR: 958
-    closedIssue: 905
-    openIssue: 713
+    openPR: 959
+    closedIssue: 906
+    openIssue: 714
     commit: 528
   last360d:
     since: 2025-09-13
     release: 100
     mergedPR: 1056
-    openPR: 1238
-    closedIssue: 1907
-    openIssue: 1108
+    openPR: 1239
+    closedIssue: 1908
+    openIssue: 1109
     commit: 1148
   last720d:
     since: 2024-09-18
     release: 100
     mergedPR: 1942
-    openPR: 1430
-    closedIssue: 4953
-    openIssue: 1888
+    openPR: 1431
+    closedIssue: 4954
+    openIssue: 1889
     commit: 2234
 total:
   release: 251
   mergedPR: 3593
-  openPR: 1458
-  closedIssue: 8701
-  openIssue: 2469
+  openPR: 1459
+  closedIssue: 8702
+  openIssue: 2470
   commit: 5722
 ---
 path: /home/runner/.x-repo/github.com/ollama/ollama
-collectedAt: 2026-09-08T02:20:44Z
+collectedAt: 2026-09-08T05:03:53Z
 loc:
   Go:
     code: 288731
