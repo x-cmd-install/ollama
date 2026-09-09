@@ -2,12 +2,12 @@ about:
   description: "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
   license: MIT
   homepage: https://ollama.com
-  head: 86f7292
+  head: 3738935
   archived: false
-  latestVersion: "v0.34.0-rc3"
+  latestVersion: "v0.34.0-rc4"
   latestRelease: "v0.33.3"
-  latestPrerelease: "v0.34.0-rc3"
-  collectedAt: 2026-09-09T05:11:01Z
+  latestPrerelease: "v0.34.0-rc4"
+  collectedAt: 2026-09-09T19:23:20Z
 timeline:
   created: 2023-06-26
   lastCommit: 2026-09-09
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 2026-09-05
 popularity:
-  star: 180491
+  star: 180525
   watcher: 1012
-  fork: 17777
+  fork: 17780
   release: 251
   contributor: 611
-  pullRequest: 6747
-  issue: 11172
+  pullRequest: 6757
+  issue: 11175
 language:
-  Go: 10395471
+  Go: 10399931
   C: 2954065
   TypeScript: 706833
   C++: 140352
@@ -38,71 +38,71 @@ language:
   AppleScript: 1828
   CSS: 1403
   JavaScript: 1304
-totalBytes: 14578440
+totalBytes: 14582900
 recent:
   last30d:
     since: 2026-08-10
     release: 14
-    mergedPR: 93
-    openPR: 272
-    closedIssue: 123
-    openIssue: 132
-    commit: 93
+    mergedPR: 94
+    openPR: 280
+    closedIssue: 125
+    openIssue: 133
+    commit: 94
   last60d:
     since: 2026-07-11
     release: 21
-    mergedPR: 169
-    openPR: 445
-    closedIssue: 206
-    openIssue: 238
-    commit: 196
+    mergedPR: 170
+    openPR: 453
+    closedIssue: 208
+    openIssue: 239
+    commit: 197
   last90d:
     since: 2026-06-11
     release: 28
-    mergedPR: 224
-    openPR: 586
-    closedIssue: 324
-    openIssue: 320
-    commit: 262
+    mergedPR: 225
+    openPR: 594
+    closedIssue: 326
+    openIssue: 321
+    commit: 263
   last180d:
     since: 2026-03-13
     release: 61
-    mergedPR: 482
-    openPR: 965
-    closedIssue: 902
-    openIssue: 709
-    commit: 537
+    mergedPR: 483
+    openPR: 973
+    closedIssue: 904
+    openIssue: 710
+    commit: 538
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 1064
-    openPR: 1247
-    closedIssue: 1908
-    openIssue: 1104
-    commit: 1157
+    mergedPR: 1065
+    openPR: 1255
+    closedIssue: 1910
+    openIssue: 1105
+    commit: 1158
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 1950
-    openPR: 1441
-    closedIssue: 4937
-    openIssue: 1885
-    commit: 2239
+    mergedPR: 1951
+    openPR: 1449
+    closedIssue: 4939
+    openIssue: 1886
+    commit: 2240
 total:
   release: 251
-  mergedPR: 3602
-  openPR: 1469
-  closedIssue: 8704
-  openIssue: 2468
-  commit: 5731
+  mergedPR: 3603
+  openPR: 1477
+  closedIssue: 8706
+  openIssue: 2469
+  commit: 5732
 ---
 path: /home/runner/.x-repo/github.com/ollama/ollama
-collectedAt: 2026-09-09T05:11:11Z
+collectedAt: 2026-09-09T19:23:33Z
 loc:
   Go:
-    code: 290110
-    comments: 14296
-    blanks: 35273
+    code: 290208
+    comments: 14298
+    blanks: 35276
     files: 857
   Json:
     code: 145007
@@ -215,9 +215,9 @@ loc:
     blanks: 22575
     files: 2
 total:
-  code: 528642
-  comments: 185578
-  blanks: 77236
+  code: 528740
+  comments: 185580
+  blanks: 77239
   files: 1144
 ---
 
