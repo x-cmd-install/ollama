@@ -38,22 +38,22 @@ x install ollama
 
 ## 流行度
 
-- **Star**: 180,770 · **Fork**: 17,835 · **开放 issue**: 11,201 · **贡献者**: 611
+- **Star**: 180,849 · **Fork**: 17,843 · **开放 issue**: 11,209 · **贡献者**: 611
 
 ## 累计统计
 
-- **发布数**: 251 · **已合并 PR**: 3613 · **开放 PR**: 1500 · **已关闭 issue**: 8719 · **开放 issue**: 2482 · **提交数**: 5748
+- **发布数**: 251 · **已合并 PR**: 3613 · **开放 PR**: 1506 · **已关闭 issue**: 8719 · **开放 issue**: 2490 · **提交数**: 5748
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 10 | 83 | 275 | 111 | 137 | 110 |
-| last60d | 2026-07-15 | 20 | 165 | 453 | 209 | 245 | 213 |
-| 90d | 2026-06-15 | 27 | 233 | 593 | 316 | 326 | 279 |
-| last180d | 2026-03-17 | 60 | 481 | 971 | 895 | 714 | 554 |
-| 360d | 2025-09-18 | 100 | 1055 | 1276 | 1901 | 1113 | 1174 |
-| last720d | 2024-09-23 | 100 | 1952 | 1472 | 4932 | 1891 | 2249 |
+| 30d | 2026-08-15 | 7 | 82 | 274 | 100 | 139 | 83 |
+| last60d | 2026-07-16 | 20 | 160 | 455 | 207 | 250 | 185 |
+| 90d | 2026-06-16 | 26 | 231 | 593 | 312 | 333 | 270 |
+| last180d | 2026-03-18 | 59 | 472 | 972 | 886 | 720 | 530 |
+| 360d | 2025-09-19 | 100 | 1054 | 1281 | 1895 | 1119 | 1151 |
+| last720d | 2024-09-24 | 100 | 1948 | 1478 | 4921 | 1898 | 2249 |
 
 ## Release 资产
 
@@ -77,19 +77,6 @@ x install ollama
 | [OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.34.0/OllamaSetup.exe) | 1.5 GiB | `other` |
 | [sha256sum.txt](https://github.com/ollama/ollama/releases/download/v0.34.0/sha256sum.txt) | 1.4 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/ollama) 上共有 **112** 个发行版报告此项目。**22** 个 ✅ 已是最新上游版本，**71** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.34.0` | ✅ latest |
-| Homebrew | `0.33.3` | ⚠️ outdated |
-| Fedora rawhide | `0.32.8` | ⚠️ outdated |
-| Nix unstable | `0.33.3` | ⚠️ outdated |
-| Alpine edge | `0.17.7` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.33.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 ollama 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `ollama` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +86,4 @@ ollama 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:20:14Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:45:36Z._
