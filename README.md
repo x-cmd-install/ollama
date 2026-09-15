@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ![ollama](https://repo.x-cmd.io/ollama.svg)
 
@@ -14,15 +14,15 @@ x install ollama
 
 ## Code insight
 
-Total: **506,213** lines of code across **1000** files in the top 5 languages.
+Total: **492,798** lines of code across **944** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 268,796 | 14,070 | 33,020 | 810 |
-| Json | 145,007 | 0 | 4 | 45 |
-| CHeader | 56,338 | 2,039 | 15,453 | 43 |
-| Tsx | 14,560 | 260 | 1,054 | 55 |
-| TypeScript | 4,641 | 223 | 564 | 47 |
+| Go | 256,978 | 13,802 | 31,065 | 763 |
+| Json | 142,525 | 0 | 4 | 34 |
+| CHeader | 56,528 | 2,084 | 15,459 | 43 |
+| Tsx | 15,099 | 269 | 1,080 | 57 |
+| TypeScript | 4,628 | 223 | 563 | 47 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **506,213** lines of code across **1000** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.34.0` (2026-09-05)
-- **Last commit**: 2026-09-11
+- **Latest**: `v0.34.1-rc2` (2026-09-05)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 180,849 · **Forks**: 17,843 · **Open issues**: 11,209 · **Contributors**: 611
+- **Stars**: 180,990 · **Forks**: 17,873 · **Open issues**: 11,219 · **Contributors**: 611
 
 ## Totals (cumulative)
 
-- **Releases**: 251 · **Merged PRs**: 3613 · **Open PRs**: 1506 · **Closed issues**: 8719 · **Open issues**: 2490 · **Commits**: 5748
+- **Releases**: 252 · **Merged PRs**: 3620 · **Open PRs**: 1515 · **Closed issues**: 8727 · **Open issues**: 2492 · **Commits**: 5755
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 7 | 82 | 274 | 100 | 139 | 83 |
-| last60d | 2026-07-16 | 20 | 160 | 455 | 207 | 250 | 185 |
-| 90d | 2026-06-16 | 26 | 231 | 593 | 312 | 333 | 270 |
-| last180d | 2026-03-18 | 59 | 472 | 972 | 886 | 720 | 530 |
-| 360d | 2025-09-19 | 100 | 1054 | 1281 | 1895 | 1119 | 1151 |
-| last720d | 2024-09-24 | 100 | 1948 | 1478 | 4921 | 1898 | 2249 |
+| 30d | 2026-08-16 | 7 | 88 | 272 | 99 | 139 | 90 |
+| last60d | 2026-07-17 | 20 | 159 | 460 | 208 | 256 | 192 |
+| 90d | 2026-06-17 | 27 | 235 | 601 | 309 | 333 | 277 |
+| last180d | 2026-03-19 | 59 | 476 | 977 | 889 | 715 | 537 |
+| 360d | 2025-09-20 | 100 | 1060 | 1290 | 1896 | 1119 | 1158 |
+| last720d | 2024-09-25 | 100 | 1950 | 1486 | 4917 | 1896 | 2253 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:45:36Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:31:29Z._
