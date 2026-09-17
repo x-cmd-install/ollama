@@ -14,11 +14,11 @@ x install ollama
 
 ## Code insight
 
-Total: **492,784** lines of code across **944** files in the top 5 languages.
+Total: **489,505** lines of code across **934** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 256,978 | 13,802 | 31,065 | 763 |
+| Go | 253,798 | 13,384 | 30,527 | 753 |
 | Json | 142,525 | 0 | 4 | 34 |
 | CHeader | 56,529 | 2,084 | 15,459 | 43 |
 | Tsx | 15,099 | 269 | 1,080 | 57 |
@@ -32,28 +32,28 @@ Total: **492,784** lines of code across **944** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.34.2-rc0` (2026-09-14)
-- **Last commit**: 2026-09-15
+- **Latest**: `v0.34.2-rc1` (2026-09-14)
+- **Last commit**: 2026-09-17
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 181,097 · **Forks**: 17,894 · **Open issues**: 11,220 · **Contributors**: 611
+- **Stars**: 181,206 · **Forks**: 17,912 · **Open issues**: 11,228 · **Contributors**: 611
 
 ## Totals (cumulative)
 
-- **Releases**: 253 · **Merged PRs**: 3622 · **Open PRs**: 1523 · **Closed issues**: 8730 · **Open issues**: 2490 · **Commits**: 5757
+- **Releases**: 253 · **Merged PRs**: 3626 · **Open PRs**: 1530 · **Closed issues**: 8731 · **Open issues**: 2497 · **Commits**: 5767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 8 | 90 | 276 | 90 | 136 | 92 |
-| last60d | 2026-07-18 | 21 | 160 | 469 | 207 | 254 | 194 |
-| 90d | 2026-06-18 | 27 | 232 | 609 | 298 | 334 | 279 |
-| last180d | 2026-03-20 | 60 | 476 | 980 | 885 | 712 | 539 |
-| 360d | 2025-09-21 | 100 | 1062 | 1298 | 1897 | 1117 | 1160 |
-| last720d | 2024-09-26 | 100 | 1949 | 1494 | 4907 | 1892 | 2253 |
+| 30d | 2026-08-18 | 8 | 89 | 274 | 84 | 140 | 102 |
+| last60d | 2026-07-19 | 21 | 163 | 469 | 207 | 261 | 204 |
+| 90d | 2026-06-19 | 27 | 236 | 613 | 294 | 338 | 289 |
+| last180d | 2026-03-21 | 60 | 480 | 982 | 881 | 717 | 549 |
+| 360d | 2025-09-22 | 100 | 1063 | 1303 | 1893 | 1124 | 1170 |
+| last720d | 2024-09-27 | 100 | 1953 | 1500 | 4892 | 1898 | 2262 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:27:22Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:29:37Z._
