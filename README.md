@@ -38,22 +38,22 @@ Total: **494,272** lines of code across **955** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 181,338 · **Forks**: 17,947 · **Open issues**: 11,261 · **Contributors**: 611
+- **Stars**: 181,425 · **Forks**: 17,964 · **Open issues**: 11,266 · **Contributors**: 611
 
 ## Totals (cumulative)
 
-- **Releases**: 254 · **Merged PRs**: 3636 · **Open PRs**: 1536 · **Closed issues**: 8752 · **Open issues**: 2509 · **Commits**: 5777
+- **Releases**: 254 · **Merged PRs**: 3636 · **Open PRs**: 1546 · **Closed issues**: 8759 · **Open issues**: 2507 · **Commits**: 5777
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 7 | 83 | 254 | 79 | 142 | 79 |
-| last60d | 2026-07-23 | 21 | 160 | 441 | 202 | 255 | 188 |
-| 90d | 2026-06-23 | 28 | 237 | 604 | 296 | 345 | 278 |
-| last180d | 2026-03-25 | 61 | 478 | 974 | 881 | 722 | 528 |
-| 360d | 2025-09-26 | 100 | 1062 | 1306 | 1890 | 1126 | 1165 |
-| last720d | 2024-10-01 | 100 | 1955 | 1504 | 4873 | 1905 | 2271 |
+| 30d | 2026-08-23 | 7 | 81 | 255 | 83 | 137 | 79 |
+| last60d | 2026-07-24 | 20 | 154 | 443 | 206 | 250 | 188 |
+| 90d | 2026-06-24 | 28 | 237 | 610 | 300 | 339 | 278 |
+| last180d | 2026-03-26 | 60 | 474 | 981 | 884 | 718 | 528 |
+| 360d | 2025-09-27 | 100 | 1062 | 1316 | 1893 | 1124 | 1165 |
+| last720d | 2024-10-02 | 100 | 1952 | 1514 | 4873 | 1901 | 2270 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:27:49Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:25:22Z._
