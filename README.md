@@ -38,22 +38,22 @@ Total: **496,549** lines of code across **966** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 181,660 · **Forks**: 17,999 · **Open issues**: 11,283 · **Contributors**: 611
+- **Stars**: 181,740 · **Forks**: 18,006 · **Open issues**: 11,292 · **Contributors**: 611
 
 ## Totals (cumulative)
 
-- **Releases**: 256 · **Merged PRs**: 3651 · **Open PRs**: 1566 · **Closed issues**: 8773 · **Open issues**: 2510 · **Commits**: 5795
+- **Releases**: 256 · **Merged PRs**: 3651 · **Open PRs**: 1577 · **Closed issues**: 8776 · **Open issues**: 2516 · **Commits**: 5795
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 9 | 75 | 241 | 80 | 132 | 97 |
-| last60d | 2026-07-27 | 21 | 166 | 449 | 206 | 250 | 206 |
-| 90d | 2026-06-27 | 29 | 242 | 616 | 303 | 331 | 296 |
-| last180d | 2026-03-29 | 60 | 473 | 987 | 885 | 718 | 546 |
-| 360d | 2025-09-30 | 100 | 1074 | 1334 | 1890 | 1123 | 1183 |
-| last720d | 2024-10-05 | 100 | 1965 | 1533 | 4876 | 1900 | 2288 |
+| 30d | 2026-08-27 | 8 | 69 | 248 | 76 | 127 | 97 |
+| last60d | 2026-07-28 | 20 | 166 | 460 | 204 | 249 | 206 |
+| 90d | 2026-06-28 | 29 | 241 | 628 | 304 | 335 | 296 |
+| last180d | 2026-03-30 | 60 | 472 | 995 | 879 | 721 | 546 |
+| 360d | 2025-10-01 | 100 | 1072 | 1345 | 1887 | 1125 | 1183 |
+| last720d | 2024-10-06 | 100 | 1965 | 1544 | 4876 | 1905 | 2287 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:19:46Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:29:36Z._
