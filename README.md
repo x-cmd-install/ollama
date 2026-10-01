@@ -38,22 +38,22 @@ Total: **499,607** lines of code across **974** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 181,938 · **Forks**: 18,045 · **Open issues**: 11,313 · **Contributors**: 611
+- **Stars**: 181,992 · **Forks**: 18,062 · **Open issues**: 11,318 · **Contributors**: 611
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 3659 · **Open PRs**: 1589 · **Closed issues**: 8782 · **Open issues**: 2531 · **Commits**: 5803
+- **Releases**: 258 · **Merged PRs**: 3659 · **Open PRs**: 1596 · **Closed issues**: 8789 · **Open issues**: 2529 · **Commits**: 5803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 9 | 72 | 236 | 67 | 125 | 87 |
-| last60d | 2026-08-01 | 22 | 164 | 463 | 198 | 254 | 199 |
-| 90d | 2026-07-02 | 29 | 238 | 628 | 290 | 346 | 290 |
-| last180d | 2026-04-03 | 61 | 460 | 984 | 817 | 712 | 533 |
-| 360d | 2025-10-05 | 100 | 1064 | 1360 | 1881 | 1136 | 1160 |
-| last720d | 2024-10-10 | 100 | 1960 | 1560 | 4859 | 1909 | 2290 |
+| 30d | 2026-09-01 | 9 | 72 | 232 | 69 | 120 | 87 |
+| last60d | 2026-08-02 | 22 | 164 | 468 | 203 | 246 | 199 |
+| 90d | 2026-07-03 | 29 | 236 | 633 | 295 | 342 | 290 |
+| last180d | 2026-04-04 | 60 | 458 | 987 | 819 | 702 | 533 |
+| 360d | 2025-10-06 | 100 | 1060 | 1367 | 1885 | 1133 | 1160 |
+| last720d | 2024-10-11 | 100 | 1959 | 1567 | 4862 | 1906 | 2287 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:07:44Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:17:11Z._
