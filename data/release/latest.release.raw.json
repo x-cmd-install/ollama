@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22627,
       "digest": "sha256:a448bf7e0856ec861da60e95e4b5f9c854a22dde2a350ad9fb73a5e9198af31a",
-      "download_count": 1470,
+      "download_count": 8961,
       "created_at": "2026-09-29T01:53:06Z",
       "updated_at": "2026-09-29T01:53:06Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/install.ps1"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15902,
       "digest": "sha256:25f64b810b947145095956533e1bdf56eacea2673c55a7e586be4515fc882c9f",
-      "download_count": 6452,
+      "download_count": 34500,
       "created_at": "2026-09-29T01:53:07Z",
       "updated_at": "2026-09-29T01:53:07Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/install.sh"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 160167937,
       "digest": "sha256:2608dbb0a0f0136a198db9d48b4f74ece55f452314a39452fca35b7cf20c2589",
-      "download_count": 313,
+      "download_count": 1487,
       "created_at": "2026-09-29T01:52:57Z",
       "updated_at": "2026-09-29T01:53:02Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-darwin.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 198866136,
       "digest": "sha256:3458972dfca5b3f8a4297a8d7ff503da3e180ec9452ba8de82c69c5ba3aacdd9",
-      "download_count": 43843,
+      "download_count": 208544,
       "created_at": "2026-09-29T01:52:52Z",
       "updated_at": "2026-09-29T01:52:59Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/Ollama-darwin.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1279076877,
       "digest": "sha256:8ed477f8b4677409411b8eb38fd851f610048a6450364d964684b15ec56b8a52",
-      "download_count": 43,
+      "download_count": 98,
       "created_at": "2026-09-29T01:52:58Z",
       "updated_at": "2026-09-29T01:53:40Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-linux-amd64-mlx.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1051878032,
       "digest": "sha256:77b6ef06adf34b1fa5232d4372d0e988bcb862363e4b81002ed59a1d0b91bb4c",
-      "download_count": 455,
+      "download_count": 2533,
       "created_at": "2026-09-29T01:52:59Z",
       "updated_at": "2026-09-29T01:53:32Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-linux-amd64-rocm.tar.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1427765407,
       "digest": "sha256:1c114a6b220c5efca2ef2b1e5f01d1e535e26f6cd6d1678c8489325d2835e525",
-      "download_count": 6487,
+      "download_count": 33936,
       "created_at": "2026-09-29T01:53:00Z",
       "updated_at": "2026-09-29T01:53:48Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-linux-amd64.tar.zst"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 297201571,
       "digest": "sha256:f7f1a7e890f2a493014f01cf8de948b5aa4641f34c05d2cb61983649b9c20f5b",
-      "download_count": 39,
+      "download_count": 75,
       "created_at": "2026-09-29T01:53:01Z",
       "updated_at": "2026-09-29T01:53:10Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-linux-arm64-jetpack5.tar.zst"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 269692742,
       "digest": "sha256:609be1fb0f0d28ea3b10df7194508562da431200568157eef36de5745edd2753",
-      "download_count": 47,
+      "download_count": 189,
       "created_at": "2026-09-29T01:53:02Z",
       "updated_at": "2026-09-29T01:53:10Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-linux-arm64-jetpack6.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1550231393,
       "digest": "sha256:cb627d332b1fe5055bd5485ca10d595da8429e447648209e375390ec3bd09374",
-      "download_count": 545,
+      "download_count": 2780,
       "created_at": "2026-09-29T01:53:03Z",
       "updated_at": "2026-09-29T01:53:56Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-linux-arm64.tar.zst"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1402925014,
       "digest": "sha256:7656e13139b9b1b4f0972d94768681da83a959a46494ea01f6f205cd7d954756",
-      "download_count": 58,
+      "download_count": 134,
       "created_at": "2026-09-29T01:52:53Z",
       "updated_at": "2026-09-29T01:54:14Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-windows-amd64-mlx.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 256101888,
       "digest": "sha256:5b4e3fe4d67cf68829644042d9cff0cf8c1cc7f31c6c1578c01992cc1b35f997",
-      "download_count": 66,
+      "download_count": 328,
       "created_at": "2026-09-29T01:52:54Z",
       "updated_at": "2026-09-29T01:53:02Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-windows-amd64-rocm.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1461196158,
       "digest": "sha256:d6f7d3dd4f5d013553a78c1e78b2521fcf41d43dd2863e4596cdc046fe6036db",
-      "download_count": 1314,
+      "download_count": 7527,
       "created_at": "2026-09-29T01:52:55Z",
       "updated_at": "2026-09-29T01:53:36Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-windows-amd64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 208072407,
       "digest": "sha256:99d061915a68fb563da0fb9316fd112cfc6fce0c9478601b2765b1f973cb715e",
-      "download_count": 52,
+      "download_count": 186,
       "created_at": "2026-09-29T01:52:56Z",
       "updated_at": "2026-09-29T01:53:03Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/ollama-windows-arm64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 199580406,
       "digest": "sha256:0d80fb5e93302f154a3a109dd34b461fad3a1c45c3157e63b195bbaca6d1772c",
-      "download_count": 1542,
+      "download_count": 9275,
       "created_at": "2026-09-29T01:53:05Z",
       "updated_at": "2026-09-29T01:53:12Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/Ollama.dmg"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1571105888,
       "digest": "sha256:92e45c3518daf7d4ea60480896ee7bdb1bed71381593cfc9f2d7c1ceb941efde",
-      "download_count": 40996,
+      "download_count": 220967,
       "created_at": "2026-09-29T01:53:04Z",
       "updated_at": "2026-09-29T01:53:55Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/OllamaSetup.exe"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1472,
       "digest": "sha256:9f5c94636d06e93d1ad8a1f2386018b906dc4d7c9ff96d57efb01933d5f176a1",
-      "download_count": 391,
+      "download_count": 1557,
       "created_at": "2026-09-29T01:54:15Z",
       "updated_at": "2026-09-29T01:54:15Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.35.0/sha256sum.txt"
@@ -654,14 +654,14 @@
   "body": "## Decision models\r\n\r\nOllama now supports decision models through `/v1/systemone`, based on [TypeSafe’s Jev API](https://typesafe.ai).\r\n\r\nDecision models return choices, probabilities, and scores instead of text. Use them for tasks such as ticket triage, model routing, and content classification.\r\n\r\nAvailable models:\r\n- [**Nimble**](https://ollama.com/library/nimble) from Bespoke Labs\r\n- [**Tev1**](https://ollama.com/library/tev1) from Together AI\r\n\r\n```sh\r\nollama pull nimble\r\n```\r\n\r\nSend context and one or more questions:\r\n\r\n```sh\r\ncurl http://localhost:11434/v1/systemone \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n    \"model\": \"nimble\",\r\n    \"state\": \"Our checkout has returned 500 errors since 9am.\",\r\n    \"questions\": {\r\n      \"label\": {\r\n        \"type\": \"choice\",\r\n        \"instructions\": \"Which label fits this ticket?\",\r\n        \"criteria\": {\r\n          \"billing\": \"Payments and refunds\",\r\n          \"bug\": \"Software errors\",\r\n          \"account\": \"Login and account access\"\r\n        }\r\n      }\r\n    }\r\n  }'\r\n```\r\n\r\nExample response:\r\n\r\n```json\r\n{\r\n  \"model\": \"nimble\",\r\n  \"answers\": {\r\n    \"label\": {\r\n      \"type\": \"choice\",\r\n      \"choice\": \"bug\",\r\n      \"probabilities\": {\r\n        \"billing\": 0.0125,\r\n        \"bug\": 0.9781,\r\n        \"account\": 0.0093\r\n      },\r\n      \"confidence\": 0.8906\r\n    }\r\n  },\r\n  \"usage\": {\r\n    \"input_tokens\": 174,\r\n    \"output_tokens\": 1\r\n  }\r\n}\r\n```\r\n\r\nThe API supports three question types:\r\n- `choice`: Select an option and return probabilities for each.\r\n- `noul`: Return the probability that a condition is true.\r\n- `score`: Return a score across an ordered set of criteria\r\n\r\n## What's Changed\r\n\r\n- Settings now opens without waiting for model discovery.\r\n- Fixed the macOS update menu and icon not reflecting an available update at startup.\r\n- Fixed stalled MLX model downloads hanging indefinitely.\r\n- Requests containing the deprecated `typical_p` parameter now log a warning instead of failing.\r\n\r\n**Full Changelog:** https://github.com/ollama/ollama/compare/v0.34.4...v0.35.0",
   "reactions": {
     "url": "https://api.github.com/repos/ollama/ollama/releases/398626503/reactions",
-    "total_count": 29,
-    "+1": 15,
+    "total_count": 35,
+    "+1": 17,
     "-1": 0,
     "laugh": 0,
-    "hooray": 5,
+    "hooray": 6,
     "confused": 0,
-    "heart": 3,
-    "rocket": 6,
+    "heart": 4,
+    "rocket": 8,
     "eyes": 0
   }
 }
