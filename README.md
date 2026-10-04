@@ -38,22 +38,22 @@ Total: **500,843** lines of code across **977** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 182,073 · **Forks**: 18,086 · **Open issues**: 11,338 · **Contributors**: 611
+- **Stars**: 182,140 · **Forks**: 18,098 · **Open issues**: 11,344 · **Contributors**: 611
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 3664 · **Open PRs**: 1620 · **Closed issues**: 8799 · **Open issues**: 2539 · **Commits**: 5808
+- **Releases**: 258 · **Merged PRs**: 3666 · **Open PRs**: 1624 · **Closed issues**: 8801 · **Open issues**: 2543 · **Commits**: 5808
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 8 | 74 | 244 | 68 | 124 | 92 |
-| last60d | 2026-08-04 | 22 | 168 | 472 | 207 | 243 | 204 |
-| 90d | 2026-07-05 | 29 | 240 | 650 | 298 | 346 | 295 |
-| last180d | 2026-04-06 | 59 | 460 | 1005 | 808 | 703 | 538 |
-| 360d | 2025-10-08 | 100 | 1056 | 1390 | 1885 | 1139 | 1165 |
-| last720d | 2024-10-13 | 100 | 1961 | 1590 | 4861 | 1913 | 2291 |
+| 30d | 2026-09-04 | 8 | 68 | 243 | 65 | 125 | 92 |
+| last60d | 2026-08-05 | 21 | 166 | 475 | 208 | 247 | 204 |
+| 90d | 2026-07-06 | 29 | 237 | 652 | 296 | 348 | 295 |
+| last180d | 2026-04-07 | 59 | 454 | 1001 | 800 | 700 | 538 |
+| 360d | 2025-10-09 | 100 | 1055 | 1392 | 1883 | 1142 | 1165 |
+| last720d | 2024-10-14 | 100 | 1961 | 1594 | 4860 | 1915 | 2290 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:41:35Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:46:31Z._
