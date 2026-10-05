@@ -32,28 +32,28 @@ Total: **500,843** lines of code across **977** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.35.1` (2026-09-29)
+- **Latest**: `v0.40.0-rc3` (2026-09-29)
 - **Last commit**: 2026-10-02
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 182,140 · **Forks**: 18,098 · **Open issues**: 11,344 · **Contributors**: 611
+- **Stars**: 182,212 · **Forks**: 18,103 · **Open issues**: 11,348 · **Contributors**: 611
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 3666 · **Open PRs**: 1624 · **Closed issues**: 8801 · **Open issues**: 2543 · **Commits**: 5808
+- **Releases**: 258 · **Merged PRs**: 3668 · **Open PRs**: 1623 · **Closed issues**: 8804 · **Open issues**: 2544 · **Commits**: 5808
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 8 | 68 | 243 | 65 | 125 | 92 |
-| last60d | 2026-08-05 | 21 | 166 | 475 | 208 | 247 | 204 |
-| 90d | 2026-07-06 | 29 | 237 | 652 | 296 | 348 | 295 |
-| last180d | 2026-04-07 | 59 | 454 | 1001 | 800 | 700 | 538 |
-| 360d | 2025-10-09 | 100 | 1055 | 1392 | 1883 | 1142 | 1165 |
-| last720d | 2024-10-14 | 100 | 1961 | 1594 | 4860 | 1915 | 2290 |
+| 30d | 2026-09-05 | 8 | 69 | 234 | 64 | 123 | 63 |
+| last60d | 2026-08-06 | 21 | 166 | 475 | 206 | 246 | 181 |
+| 90d | 2026-07-07 | 28 | 235 | 648 | 294 | 349 | 281 |
+| last180d | 2026-04-08 | 57 | 447 | 997 | 790 | 701 | 498 |
+| 360d | 2025-10-10 | 100 | 1052 | 1392 | 1880 | 1142 | 1138 |
+| last720d | 2024-10-15 | 100 | 1959 | 1592 | 4856 | 1916 | 2289 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:46:31Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:07:36Z._
