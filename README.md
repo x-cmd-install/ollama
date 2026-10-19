@@ -38,22 +38,22 @@ Total: **530,491** lines of code across **1104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 183,661 · **Forks**: 18,367 · **Open issues**: 11,441 · **Contributors**: 616
+- **Stars**: 183,773 · **Forks**: 18,399 · **Open issues**: 11,454 · **Contributors**: 616
 
 ## Totals (cumulative)
 
-- **Releases**: 265 · **Merged PRs**: 3729 · **Open PRs**: 1747 · **Closed issues**: 8860 · **Open issues**: 2581 · **Commits**: 5916
+- **Releases**: 265 · **Merged PRs**: 3729 · **Open PRs**: 1764 · **Closed issues**: 8866 · **Open issues**: 2588 · **Commits**: 5916
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 12 | 86 | 266 | 71 | 116 | 98 |
-| last60d | 2026-08-19 | 20 | 188 | 514 | 180 | 238 | 208 |
-| 90d | 2026-07-20 | 33 | 265 | 709 | 310 | 358 | 316 |
-| last180d | 2026-04-21 | 60 | 460 | 1074 | 759 | 659 | 543 |
-| 360d | 2025-10-23 | 100 | 1069 | 1509 | 1831 | 1159 | 1176 |
-| last720d | 2024-10-28 | 100 | 1994 | 1713 | 4808 | 1931 | 2375 |
+| 30d | 2026-09-19 | 12 | 86 | 282 | 72 | 120 | 98 |
+| last60d | 2026-08-20 | 19 | 181 | 528 | 181 | 245 | 208 |
+| 90d | 2026-07-21 | 32 | 259 | 721 | 310 | 365 | 316 |
+| last180d | 2026-04-22 | 60 | 456 | 1092 | 761 | 662 | 543 |
+| 360d | 2025-10-24 | 100 | 1067 | 1527 | 1830 | 1162 | 1176 |
+| last720d | 2024-10-29 | 100 | 1992 | 1730 | 4813 | 1938 | 2374 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:55:25Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:06:47Z._
