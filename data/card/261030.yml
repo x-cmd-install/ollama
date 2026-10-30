@@ -1,0 +1,214 @@
+about:
+  description: "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+  license: MIT
+  homepage: https://ollama.com
+  head: 4d22e65
+  archived: false
+  latestVersion: "v0.40.13"
+  latestRelease: "v0.40.13"
+  latestPrerelease: "v0.32.10"
+  collectedAt: 2026-10-30T06:07:56Z
+timeline:
+  created: 2023-06-26
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-28
+  lastRelease: 2026-10-28
+  lastPrerelease: 2026-08-12
+popularity:
+  star: 185286
+  watcher: 1018
+  fork: 18747
+  release: 271
+  contributor: 617
+  pullRequest: 7447
+  issue: 11530
+language:
+  Go: 11639051
+  C: 2969592
+  TypeScript: 767000
+  C++: 140352
+  Objective-C: 115735
+  CMake: 107723
+  PowerShell: 62601
+  Shell: 54932
+  Dockerfile: 14697
+  Inno Setup: 12924
+  Go Template: 8744
+  HTML: 6310
+  CSS: 2067
+  AppleScript: 1828
+  JavaScript: 1304
+totalBytes: 15904860
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 13
+    mergedPR: 104
+    openPR: 338
+    closedIssue: 82
+    openIssue: 127
+    commit: 124
+  last60d:
+    since: 2026-08-31
+    release: 22
+    mergedPR: 183
+    openPR: 555
+    closedIssue: 176
+    openIssue: 234
+    commit: 230
+  last90d:
+    since: 2026-08-01
+    release: 35
+    mergedPR: 276
+    openPR: 777
+    closedIssue: 311
+    openIssue: 359
+    commit: 336
+  last180d:
+    since: 2026-05-03
+    release: 61
+    mergedPR: 476
+    openPR: 1179
+    closedIssue: 756
+    openIssue: 629
+    commit: 571
+  last360d:
+    since: 2025-11-04
+    release: 100
+    mergedPR: 1060
+    openPR: 1637
+    closedIssue: 1792
+    openIssue: 1159
+    commit: 1178
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 1995
+    openPR: 1845
+    closedIssue: 4752
+    openIssue: 1947
+    commit: 2377
+total:
+  release: 271
+  mergedPR: 3770
+  openPR: 1880
+  closedIssue: 8916
+  openIssue: 2614
+  commit: 5959
+---
+path: /home/runner/.x-repo/github.com/ollama/ollama
+collectedAt: 2026-10-30T06:08:03Z
+loc:
+  Go:
+    code: 315481
+    comments: 16525
+    blanks: 35339
+    files: 1034
+  Json:
+    code: 142531
+    comments: 0
+    blanks: 4
+    files: 34
+  CHeader:
+    code: 56611
+    comments: 2084
+    blanks: 15459
+    files: 43
+  Tsx:
+    code: 16097
+    comments: 276
+    blanks: 1109
+    files: 58
+  TypeScript:
+    code: 4799
+    comments: 225
+    blanks: 580
+    files: 50
+  C:
+    code: 3498
+    comments: 2
+    blanks: 34
+    files: 4
+  Cpp:
+    code: 2921
+    comments: 706
+    blanks: 539
+    files: 4
+  ObjectiveC:
+    code: 2554
+    comments: 89
+    blanks: 297
+    files: 4
+  Yaml:
+    code: 2287
+    comments: 2
+    blanks: 1
+    files: 1
+  CMake:
+    code: 2171
+    comments: 205
+    blanks: 207
+    files: 11
+  PowerShell:
+    code: 1394
+    comments: 112
+    blanks: 149
+    files: 2
+  Sh:
+    code: 1257
+    comments: 125
+    blanks: 195
+    files: 8
+  Svg:
+    code: 969
+    comments: 3
+    blanks: 0
+    files: 32
+  Dockerfile:
+    code: 277
+    comments: 25
+    blanks: 43
+    files: 1
+  Css:
+    code: 208
+    comments: 1
+    blanks: 41
+    files: 2
+  Xml:
+    code: 105
+    comments: 0
+    blanks: 0
+    files: 1
+  Sql:
+    code: 102
+    comments: 6
+    blanks: 14
+    files: 2
+  JavaScript:
+    code: 46
+    comments: 2
+    blanks: 2
+    files: 2
+  Html:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1581
+    blanks: 720
+    files: 18
+  Text:
+    code: 0
+    comments: 114840
+    blanks: 9616
+    files: 1
+total:
+  code: 554434
+  comments: 136831
+  blanks: 64372
+  files: 1313
+---
+
+---
