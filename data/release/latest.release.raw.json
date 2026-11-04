@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22627,
       "digest": "sha256:c8db6a1409cc415e888eb167a7fe9d6a219189e1742faa45b27c4ff9960abb84",
-      "download_count": 269,
+      "download_count": 17760,
       "created_at": "2026-11-03T06:47:46Z",
       "updated_at": "2026-11-03T06:47:46Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/install.ps1"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15902,
       "digest": "sha256:25f64b810b947145095956533e1bdf56eacea2673c55a7e586be4515fc882c9f",
-      "download_count": 543,
+      "download_count": 33115,
       "created_at": "2026-11-03T06:47:47Z",
       "updated_at": "2026-11-03T06:47:47Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/install.sh"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 186686970,
       "digest": "sha256:f3bf9a528e908da0da5a2b3a4ad3252a369d62186501dc4880261e8d9023bff5",
-      "download_count": 26,
+      "download_count": 1862,
       "created_at": "2026-11-03T06:47:37Z",
       "updated_at": "2026-11-03T06:47:43Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-darwin.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 229782554,
       "digest": "sha256:9047386fb6811f54fc98b12ce4fea42a6ee5ce9e1bbc0c8196499f347054bcb5",
-      "download_count": 3396,
+      "download_count": 186791,
       "created_at": "2026-11-03T06:47:32Z",
       "updated_at": "2026-11-03T06:47:41Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/Ollama-darwin.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1232132915,
       "digest": "sha256:e48ec02dd073b146e9dcb5eb3930e03688a2310b4b1071e5d128b6cc7a1588f9",
-      "download_count": 1,
+      "download_count": 95,
       "created_at": "2026-11-03T06:47:38Z",
       "updated_at": "2026-11-03T06:48:18Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-linux-amd64-mlx.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1052345675,
       "digest": "sha256:5b1b0a7a6370755a3472b1fb2a63e569a5b0114acef2a9067047bf8e5d98ecc1",
-      "download_count": 39,
+      "download_count": 2634,
       "created_at": "2026-11-03T06:47:39Z",
       "updated_at": "2026-11-03T06:48:09Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-linux-amd64-rocm.tar.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1525335029,
       "digest": "sha256:993e83d08c3d13d17c55009a3e2664c8a25445e644aec3a68bef5abb6abce67d",
-      "download_count": 535,
+      "download_count": 32245,
       "created_at": "2026-11-03T06:47:40Z",
       "updated_at": "2026-11-03T06:48:32Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-linux-amd64.tar.zst"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 301546671,
       "digest": "sha256:7454281d9a061b5a46d6e3cad21f363ee9f00ebc47ffa82dcfc7f5ecc001e6dd",
-      "download_count": 1,
+      "download_count": 63,
       "created_at": "2026-11-03T06:47:41Z",
       "updated_at": "2026-11-03T06:47:51Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-linux-arm64-jetpack5.tar.zst"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 273379160,
       "digest": "sha256:b9641c00bd111229949f6db18d2d6d345ca39dd132a6d1974f6f38f55e9ccde8",
-      "download_count": 5,
+      "download_count": 143,
       "created_at": "2026-11-03T06:47:42Z",
       "updated_at": "2026-11-03T06:47:52Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-linux-arm64-jetpack6.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1581673422,
       "digest": "sha256:39bb333b7b4c0bafcdd7fad35eab1ae9aaf4518ea0f2c731de4376e3a29c94d0",
-      "download_count": 39,
+      "download_count": 2555,
       "created_at": "2026-11-03T06:47:43Z",
       "updated_at": "2026-11-03T06:48:55Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-linux-arm64.tar.zst"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 924245834,
       "digest": "sha256:33b8d1079cb1e9a02de4e21acd8d318f1b84bc9726fee753d1a5814b3331eb38",
-      "download_count": 6,
+      "download_count": 116,
       "created_at": "2026-11-03T06:47:33Z",
       "updated_at": "2026-11-03T06:48:05Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-windows-amd64-mlx.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 257076401,
       "digest": "sha256:50d9e93f041dfa4958db0e9ac8e88c2f85a670902f12d7271c889c11a52b31a9",
-      "download_count": 6,
+      "download_count": 458,
       "created_at": "2026-11-03T06:47:34Z",
       "updated_at": "2026-11-03T06:47:43Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-windows-amd64-rocm.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1601954968,
       "digest": "sha256:65d68cade6cf6375f398b518224f8c8a15e062387f38cf477abfc848de7e7e29",
-      "download_count": 166,
+      "download_count": 12625,
       "created_at": "2026-11-03T06:47:35Z",
       "updated_at": "2026-11-03T06:48:35Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-windows-amd64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 215932926,
       "digest": "sha256:df8a4e954587ac65ba52ec26b453490a21cd58f80b55f75cf0d706f1506764a8",
-      "download_count": 8,
+      "download_count": 253,
       "created_at": "2026-11-03T06:47:36Z",
       "updated_at": "2026-11-03T06:47:44Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/ollama-windows-arm64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 230541627,
       "digest": "sha256:683ca9baf3d4257f31fdd0004193527797c861be9d6dfb8c4617ba0800c170f9",
-      "download_count": 114,
+      "download_count": 6872,
       "created_at": "2026-11-03T06:47:45Z",
       "updated_at": "2026-11-03T06:47:52Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/Ollama.dmg"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1675999728,
       "digest": "sha256:e069c7cc7d4808f77684e81efa0b1f853a5190b4b8f070bc8fd63041180e3eba",
-      "download_count": 3081,
+      "download_count": 211248,
       "created_at": "2026-11-03T06:47:44Z",
       "updated_at": "2026-11-03T06:48:44Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/OllamaSetup.exe"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1472,
       "digest": "sha256:b734a33b36ff80f447517f6217d054084e0eca552bb81a0a26e2d4e17194b4dc",
-      "download_count": 58,
+      "download_count": 2941,
       "created_at": "2026-11-03T06:48:56Z",
       "updated_at": "2026-11-03T06:48:56Z",
       "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.40.14/sha256sum.txt"
@@ -654,14 +654,14 @@
   "body": "## What's Changed\r\n* `ollama launch claude` now applies the model's output token limit for Claude Code, so cloud models no longer run into the 128k default cap\r\n* Cloud web search responses on `/api/chat` are now decoded correctly, including compressed responses\r\n* OpenAI-compatible endpoints no longer override a model's packaged sampler defaults — clients that send no `temperature`/`top_p` get the model's own values instead of 1.0, matching `/api/chat`\r\n* `/v1/responses` now preserves readable input content, including prior assistant refusals, instead of flattening it\r\n* Ollama's app can now retry ChatGPT disconnect failures instead of leaving the connection in a broken state\r\n* `ollama launch codex` verifies ChatGPT routing before configuring, and reports a clear error when routing is unavailable\r\n* Faster top-k sampling on MLX for large vocabularies\r\n\r\n**Full Changelog**: https://github.com/ollama/ollama/compare/v0.40.13...v0.40.14",
   "reactions": {
     "url": "https://api.github.com/repos/ollama/ollama/releases/432169781/reactions",
-    "total_count": 8,
-    "+1": 5,
+    "total_count": 21,
+    "+1": 15,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
-    "heart": 1,
-    "rocket": 1,
+    "heart": 2,
+    "rocket": 3,
     "eyes": 0
   }
 }
