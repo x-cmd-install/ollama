@@ -14,11 +14,11 @@ x install ollama
 
 ## Code insight
 
-Total: **573,385** lines of code across **1284** files in the top 5 languages.
+Total: **573,395** lines of code across **1284** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 334,395 | 16,836 | 36,313 | 1097 |
+| Go | 334,405 | 16,847 | 36,313 | 1097 |
 | Json | 143,553 | 0 | 4 | 36 |
 | CHeader | 56,659 | 2,118 | 15,462 | 43 |
 | Tsx | 16,139 | 276 | 1,110 | 58 |
@@ -33,27 +33,27 @@ Total: **573,385** lines of code across **1284** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.40.17-rc0` (2026-11-09)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-15
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 187,003 · **Forks**: 19,090 · **Open issues**: 11,614 · **Contributors**: 618
+- **Stars**: 187,153 · **Forks**: 19,112 · **Open issues**: 11,619 · **Contributors**: 618
 
 ## Totals (cumulative)
 
-- **Releases**: 275 · **Merged PRs**: 3807 · **Open PRs**: 2012 · **Closed issues**: 8971 · **Open issues**: 2643 · **Commits**: 5999
+- **Releases**: 275 · **Merged PRs**: 3808 · **Open PRs**: 2017 · **Closed issues**: 8974 · **Open issues**: 2645 · **Commits**: 6000
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 12 | 75 | 330 | 79 | 112 | 84 |
-| last60d | 2026-09-16 | 22 | 171 | 573 | 175 | 210 | 206 |
-| 90d | 2026-08-17 | 30 | 274 | 820 | 293 | 328 | 327 |
-| last180d | 2026-05-19 | 58 | 490 | 1256 | 709 | 597 | 583 |
-| 360d | 2025-11-20 | 100 | 1027 | 1758 | 1756 | 1157 | 1143 |
-| last720d | 2024-11-25 | 100 | 1981 | 1975 | 4667 | 1947 | 2319 |
+| 30d | 2026-10-17 | 11 | 75 | 322 | 77 | 110 | 58 |
+| last60d | 2026-09-17 | 22 | 165 | 573 | 175 | 207 | 185 |
+| 90d | 2026-08-18 | 30 | 270 | 816 | 289 | 327 | 304 |
+| last180d | 2026-05-20 | 58 | 491 | 1259 | 706 | 597 | 575 |
+| 360d | 2025-11-21 | 100 | 1027 | 1761 | 1750 | 1157 | 1139 |
+| last720d | 2024-11-26 | 100 | 1979 | 1979 | 4663 | 1947 | 2316 |
 
 ## Release assets
 
@@ -79,14 +79,14 @@ Total: **573,385** lines of code across **1284** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **106** distros on [repology.org](https://repology.org/project/ollama). **34** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
+Reported by **101** distros on [repology.org](https://repology.org/project/ollama). **36** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.40.16` | ✅ latest |
 | Homebrew | `0.40.16` | ✅ latest |
 | Fedora rawhide | `0.35.1` | ⚠️ outdated |
-| Nix unstable | `0.40.15` | ⚠️ outdated |
+| Nix unstable | `0.40.16` | ✅ latest |
 | Alpine edge | `0.17.7` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.40.9` | ⚠️ outdated |
 
@@ -99,4 +99,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:00:15Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:22:58Z._
