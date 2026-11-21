@@ -14,11 +14,11 @@ x install ollama
 
 ## Code insight
 
-Total: **577,008** lines of code across **1297** files in the top 5 languages.
+Total: **585,674** lines of code across **1350** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 337,922 | 17,038 | 36,487 | 1110 |
+| Go | 346,575 | 17,459 | 36,985 | 1163 |
 | Json | 143,553 | 0 | 4 | 36 |
 | CHeader | 56,660 | 2,118 | 15,462 | 43 |
 | Tsx | 16,139 | 276 | 1,110 | 58 |
@@ -32,61 +32,61 @@ Total: **577,008** lines of code across **1297** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.40.17-rc2` (2026-11-09)
-- **Last commit**: 2026-11-19
+- **Latest**: `v0.40.17` (2026-11-10)
+- **Last commit**: 2026-11-21
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 187,709 · **Forks**: 19,181 · **Open issues**: 11,639 · **Contributors**: 619
+- **Stars**: 187,792 · **Forks**: 19,112 · **Open issues**: 11,643 · **Contributors**: 619
 
 ## Totals (cumulative)
 
-- **Releases**: 275 · **Merged PRs**: 3815 · **Open PRs**: 2049 · **Closed issues**: 8992 · **Open issues**: 2647 · **Commits**: 6008
+- **Releases**: 275 · **Merged PRs**: 3822 · **Open PRs**: 2053 · **Closed issues**: 8993 · **Open issues**: 2650 · **Commits**: 6015
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 10 | 67 | 312 | 78 | 100 | 65 |
-| last60d | 2026-09-21 | 21 | 168 | 588 | 174 | 202 | 192 |
-| 90d | 2026-08-22 | 28 | 262 | 822 | 284 | 320 | 311 |
-| last180d | 2026-05-24 | 58 | 495 | 1281 | 716 | 591 | 582 |
-| 360d | 2025-11-25 | 100 | 1028 | 1788 | 1745 | 1153 | 1146 |
-| last720d | 2024-11-30 | 100 | 1980 | 2011 | 4653 | 1942 | 2315 |
+| 30d | 2026-10-22 | 9 | 65 | 300 | 77 | 102 | 72 |
+| last60d | 2026-09-22 | 21 | 170 | 583 | 170 | 202 | 199 |
+| 90d | 2026-08-23 | 28 | 266 | 819 | 283 | 320 | 318 |
+| last180d | 2026-05-25 | 58 | 502 | 1284 | 715 | 594 | 589 |
+| 360d | 2025-11-26 | 100 | 1034 | 1791 | 1737 | 1156 | 1153 |
+| last720d | 2024-12-01 | 100 | 1986 | 2015 | 4652 | 1946 | 2319 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [install.ps1](https://github.com/ollama/ollama/releases/download/v0.40.16/install.ps1) | 22.1 KiB | `other` |
-| [install.sh](https://github.com/ollama/ollama/releases/download/v0.40.16/install.sh) | 15.5 KiB | `other` |
-| [ollama-darwin.tgz](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-darwin.tgz) | 177.5 MiB | `native/darwin/x64` |
-| [Ollama-darwin.zip](https://github.com/ollama/ollama/releases/download/v0.40.16/Ollama-darwin.zip) | 218.6 MiB | `native/darwin/x64` |
-| [ollama-linux-amd64-mlx.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-linux-amd64-mlx.tar.zst) | 1.1 GiB | `native/linux/x64` |
-| [ollama-linux-amd64-rocm.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-linux-amd64-rocm.tar.zst) | 1005.1 MiB | `native/linux/x64` |
-| [ollama-linux-amd64.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-linux-amd64.tar.zst) | 1.4 GiB | `native/linux/x64` |
-| [ollama-linux-arm64-jetpack5.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-linux-arm64-jetpack5.tar.zst) | 289.4 MiB | `native/linux/arm64` |
-| [ollama-linux-arm64-jetpack6.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-linux-arm64-jetpack6.tar.zst) | 262.6 MiB | `native/linux/arm64` |
-| [ollama-linux-arm64.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-linux-arm64.tar.zst) | 1.5 GiB | `native/linux/arm64` |
-| [ollama-windows-amd64-mlx.zip](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-windows-amd64-mlx.zip) | 881.5 MiB | `native/win/x64` |
-| [ollama-windows-amd64-rocm.zip](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-windows-amd64-rocm.zip) | 246.7 MiB | `native/win/x64` |
-| [ollama-windows-amd64.zip](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-windows-amd64.zip) | 1.5 GiB | `native/win/x64` |
-| [ollama-windows-arm64.zip](https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-windows-arm64.zip) | 369.0 MiB | `native/win/arm64` |
-| [Ollama.dmg](https://github.com/ollama/ollama/releases/download/v0.40.16/Ollama.dmg) | 219.3 MiB | `other` |
-| [OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.40.16/OllamaSetup.exe) | 1.7 GiB | `other` |
-| [sha256sum.txt](https://github.com/ollama/ollama/releases/download/v0.40.16/sha256sum.txt) | 1.4 KiB | `other` |
+| [install.ps1](https://github.com/ollama/ollama/releases/download/v0.40.17/install.ps1) | 22.7 KiB | `other` |
+| [install.sh](https://github.com/ollama/ollama/releases/download/v0.40.17/install.sh) | 15.8 KiB | `other` |
+| [ollama-darwin.tgz](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-darwin.tgz) | 178.9 MiB | `native/darwin/x64` |
+| [Ollama-darwin.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/Ollama-darwin.zip) | 220.1 MiB | `native/darwin/x64` |
+| [ollama-linux-amd64-mlx.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-amd64-mlx.tar.zst) | 1.1 GiB | `native/linux/x64` |
+| [ollama-linux-amd64-rocm.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-amd64-rocm.tar.zst) | 1005.2 MiB | `native/linux/x64` |
+| [ollama-linux-amd64.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-amd64.tar.zst) | 1.4 GiB | `native/linux/x64` |
+| [ollama-linux-arm64-jetpack5.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-arm64-jetpack5.tar.zst) | 289.3 MiB | `native/linux/arm64` |
+| [ollama-linux-arm64-jetpack6.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-arm64-jetpack6.tar.zst) | 262.7 MiB | `native/linux/arm64` |
+| [ollama-linux-arm64.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-arm64.tar.zst) | 1.5 GiB | `native/linux/arm64` |
+| [ollama-windows-amd64-mlx.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-amd64-mlx.zip) | 881.9 MiB | `native/win/x64` |
+| [ollama-windows-amd64-rocm.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-amd64-rocm.zip) | 246.7 MiB | `native/win/x64` |
+| [ollama-windows-amd64.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-amd64.zip) | 1.5 GiB | `native/win/x64` |
+| [ollama-windows-arm64.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-arm64.zip) | 369.2 MiB | `native/win/arm64` |
+| [Ollama.dmg](https://github.com/ollama/ollama/releases/download/v0.40.17/Ollama.dmg) | 220.8 MiB | `other` |
+| [OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.40.17/OllamaSetup.exe) | 1.7 GiB | `other` |
+| [sha256sum.txt](https://github.com/ollama/ollama/releases/download/v0.40.17/sha256sum.txt) | 1.4 KiB | `other` |
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/ollama). **41** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/ollama). **7** are ✅ on the latest upstream release, **82** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.40.16` | ✅ latest |
-| Homebrew | `0.40.16` | ✅ latest |
+| Arch | `0.40.16` | ⚠️ outdated |
+| Homebrew | `0.40.17` | ✅ latest |
 | Fedora rawhide | `0.35.1` | ⚠️ outdated |
-| Nix unstable | `0.40.16` | ✅ latest |
+| Nix unstable | `0.40.16` | ⚠️ outdated |
 | Alpine edge | `0.17.7` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.40.9` | ⚠️ outdated |
 
@@ -99,4 +99,4 @@ Install metadata for ollama lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:40:46Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:34:22Z._
