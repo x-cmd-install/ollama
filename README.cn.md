@@ -14,12 +14,12 @@ x install ollama
 
 ## 代码洞察
 
-合计: **585,371** 行代码（覆盖前 5 种语言、共 **1353** 个文件）。
+合计: **589,824** 行代码（覆盖前 5 种语言、共 **1366** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 346,272 | 17,472 | 36,959 | 1166 |
-| Json | 143,553 | 0 | 4 | 36 |
+| Go | 350,804 | 18,177 | 37,164 | 1179 |
+| Json | 143,520 | 0 | 4 | 36 |
 | CHeader | 56,660 | 2,118 | 15,462 | 43 |
 | Tsx | 16,139 | 276 | 1,110 | 58 |
 | TypeScript | 4,800 | 225 | 580 | 50 |
@@ -32,63 +32,62 @@ x install ollama
 
 ## 发布
 
-- **最新版本**: `v0.40.17` (2026-11-10)
-- **最近提交**: 2026-11-22
-- **Release 含资产**: 17 个
+- **最新版本**: `v0.40.18` (2026-11-24)
+- **最近提交**: 2026-11-24
+- **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 187,912 · **Fork**: 19,146 · **开放 issue**: 11,663 · **贡献者**: 619
+- **Star**: 187,978 · **Fork**: 19,167 · **开放 issue**: 11,667 · **贡献者**: 619
 
 ## 累计统计
 
-- **发布数**: 275 · **已合并 PR**: 3823 · **开放 PR**: 2072 · **已关闭 issue**: 8997 · **开放 issue**: 2666 · **提交数**: 6016
+- **发布数**: 276 · **已合并 PR**: 3825 · **开放 PR**: 2078 · **已关闭 issue**: 9003 · **开放 issue**: 2664 · **提交数**: 6018
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 7 | 59 | 298 | 75 | 114 | 52 |
-| last60d | 2026-09-24 | 20 | 164 | 593 | 168 | 217 | 184 |
-| 90d | 2026-08-25 | 28 | 254 | 820 | 283 | 332 | 290 |
-| last180d | 2026-05-27 | 58 | 503 | 1298 | 711 | 607 | 573 |
-| 360d | 2025-11-28 | 100 | 1033 | 1808 | 1736 | 1172 | 1138 |
-| last720d | 2024-12-03 | 100 | 1984 | 2033 | 4645 | 1957 | 2318 |
+| 30d | 2026-10-25 | 7 | 60 | 297 | 76 | 109 | 54 |
+| last60d | 2026-09-25 | 21 | 163 | 591 | 170 | 212 | 186 |
+| 90d | 2026-08-26 | 29 | 248 | 813 | 280 | 324 | 292 |
+| last180d | 2026-05-28 | 59 | 504 | 1303 | 712 | 604 | 575 |
+| 360d | 2025-11-29 | 100 | 1035 | 1813 | 1739 | 1169 | 1140 |
+| last720d | 2024-12-04 | 100 | 1984 | 2038 | 4645 | 1955 | 2318 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [install.ps1](https://github.com/ollama/ollama/releases/download/v0.40.17/install.ps1) | 22.7 KiB | `other` |
-| [install.sh](https://github.com/ollama/ollama/releases/download/v0.40.17/install.sh) | 15.8 KiB | `other` |
-| [ollama-darwin.tgz](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-darwin.tgz) | 178.9 MiB | `native/darwin/x64` |
-| [Ollama-darwin.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/Ollama-darwin.zip) | 220.1 MiB | `native/darwin/x64` |
-| [ollama-linux-amd64-mlx.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-amd64-mlx.tar.zst) | 1.1 GiB | `native/linux/x64` |
-| [ollama-linux-amd64-rocm.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-amd64-rocm.tar.zst) | 1005.2 MiB | `native/linux/x64` |
-| [ollama-linux-amd64.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-amd64.tar.zst) | 1.4 GiB | `native/linux/x64` |
-| [ollama-linux-arm64-jetpack5.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-arm64-jetpack5.tar.zst) | 289.3 MiB | `native/linux/arm64` |
-| [ollama-linux-arm64-jetpack6.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-arm64-jetpack6.tar.zst) | 262.7 MiB | `native/linux/arm64` |
-| [ollama-linux-arm64.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-arm64.tar.zst) | 1.5 GiB | `native/linux/arm64` |
-| [ollama-windows-amd64-mlx.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-amd64-mlx.zip) | 881.9 MiB | `native/win/x64` |
-| [ollama-windows-amd64-rocm.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-amd64-rocm.zip) | 246.7 MiB | `native/win/x64` |
-| [ollama-windows-amd64.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-amd64.zip) | 1.5 GiB | `native/win/x64` |
-| [ollama-windows-arm64.zip](https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-arm64.zip) | 369.2 MiB | `native/win/arm64` |
-| [Ollama.dmg](https://github.com/ollama/ollama/releases/download/v0.40.17/Ollama.dmg) | 220.8 MiB | `other` |
-| [OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.40.17/OllamaSetup.exe) | 1.7 GiB | `other` |
-| [sha256sum.txt](https://github.com/ollama/ollama/releases/download/v0.40.17/sha256sum.txt) | 1.4 KiB | `other` |
+| [install.ps1](https://github.com/ollama/ollama/releases/download/v0.40.18/install.ps1) | 22.7 KiB | `other` |
+| [install.sh](https://github.com/ollama/ollama/releases/download/v0.40.18/install.sh) | 15.6 KiB | `other` |
+| [ollama-darwin.tgz](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-darwin.tgz) | 180.1 MiB | `native/darwin/x64` |
+| [Ollama-darwin.zip](https://github.com/ollama/ollama/releases/download/v0.40.18/Ollama-darwin.zip) | 221.2 MiB | `native/darwin/x64` |
+| [ollama-linux-amd64-mlx.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-linux-amd64-mlx.tar.zst) | 1.1 GiB | `native/linux/x64` |
+| [ollama-linux-amd64-rocm.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-linux-amd64-rocm.tar.zst) | 1010.1 MiB | `native/linux/x64` |
+| [ollama-linux-amd64.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-linux-amd64.tar.zst) | 1.5 GiB | `native/linux/x64` |
+| [ollama-linux-arm64-jetpack6.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-linux-arm64-jetpack6.tar.zst) | 274.8 MiB | `native/linux/arm64` |
+| [ollama-linux-arm64.tar.zst](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-linux-arm64.tar.zst) | 1.6 GiB | `native/linux/arm64` |
+| [ollama-windows-amd64-mlx.zip](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-windows-amd64-mlx.zip) | 881.9 MiB | `native/win/x64` |
+| [ollama-windows-amd64-rocm.zip](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-windows-amd64-rocm.zip) | 254.0 MiB | `native/win/x64` |
+| [ollama-windows-amd64.zip](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-windows-amd64.zip) | 1.6 GiB | `native/win/x64` |
+| [ollama-windows-arm64.zip](https://github.com/ollama/ollama/releases/download/v0.40.18/ollama-windows-arm64.zip) | 385.9 MiB | `native/win/arm64` |
+| [Ollama.dmg](https://github.com/ollama/ollama/releases/download/v0.40.18/Ollama.dmg) | 222.0 MiB | `other` |
+| [OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.40.18/OllamaSetup.exe) | 1.8 GiB | `other` |
+| [sha256sum.txt](https://github.com/ollama/ollama/releases/download/v0.40.18/sha256sum.txt) | 1.3 KiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/ollama) 上共有 **102** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**64** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/ollama) 上共有 **102** 个发行版报告此项目。**34** 个 ✅ 已是最新上游版本，**55** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.40.17` | ✅ latest |
 | Homebrew | `0.40.17` | ✅ latest |
 | Fedora rawhide | `0.35.1` | ⚠️ outdated |
-| Nix unstable | `0.40.16` | ⚠️ outdated |
+| Nix unstable | `0.40.17` | ✅ latest |
 | Alpine edge | `0.17.7` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.40.9` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.40.16` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -99,4 +98,4 @@ ollama 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T10:11:15Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:10:04Z._
