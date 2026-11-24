@@ -1,3 +1,85 @@
+- repo: chromebrew
+  srcname: ollama
+  visiblename: ollama
+  version: 0.40.16
+  origversion: null
+  status: outdated
+  summary: Get up and running with large language models.
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-rocm
+  visiblename: ollama-rocm
+  version: 0.40.16
+  origversion: 0.40.16-1
+  status: outdated
+  summary: Create, run and share large language models (LLMs) with ROCm
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-rocm
+  visiblename: ollama-rocm
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
+  summary: Create, run and share large language models (LLMs) with ROCm
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-docs
+  visiblename: ollama-docs
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
+  summary: Documentation for Ollama
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ollama
+  binname: ollama
+  visiblename: ollama
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
+  summary: Create, run and share large language models (LLMs)
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-cuda
+  visiblename: ollama-cuda
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
+  summary: Create, run and share large language models (LLMs) with CUDA
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-vulkan
+  visiblename: ollama-vulkan
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
+  summary: Create, run and share large language models (LLMs) with Vulkan
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: Ollama
+  visiblename: Ollama Large Language Models
+  version: 0.40.17
+  origversion: null
+  status: newest
+  summary: Effortlessly run large language models locally with Ollama.
 - repo: alpine_3_24
   subrepo: community
   srcname: ollama
@@ -95,23 +177,12 @@
 - repo: arch
   subrepo: extra
   srcname: ollama
-  binname: ollama-docs
-  visiblename: ollama-docs
+  binname: ollama-cuda
+  visiblename: ollama-cuda
   version: 0.40.17
   origversion: 0.40.17-1
   status: newest
-  summary: Documentation for Ollama
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: ollama
-  binname: ollama-rocm
-  visiblename: ollama-rocm
-  version: 0.40.17
-  origversion: 0.40.17-1
-  status: newest
-  summary: Create, run and share large language models (LLMs) with ROCm
+  summary: Create, run and share large language models (LLMs) with CUDA
   licenses:
     - MIT
 - repo: arch
@@ -128,23 +199,34 @@
 - repo: arch
   subrepo: extra
   srcname: ollama
-  binname: ollama-cuda
-  visiblename: ollama-cuda
-  version: 0.40.17
-  origversion: 0.40.17-1
-  status: newest
-  summary: Create, run and share large language models (LLMs) with CUDA
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: ollama
   binname: ollama-vulkan
   visiblename: ollama-vulkan
   version: 0.40.17
   origversion: 0.40.17-1
   status: newest
   summary: Create, run and share large language models (LLMs) with Vulkan
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-rocm
+  visiblename: ollama-rocm
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
+  summary: Create, run and share large language models (LLMs) with ROCm
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-docs
+  visiblename: ollama-docs
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
+  summary: Documentation for Ollama
   licenses:
     - MIT
 - repo: aur
@@ -271,22 +353,6 @@
     - fallback-mnt-aur@repology
   licenses:
     - MIT
-- repo: chocolatey
-  binname: Ollama
-  visiblename: Ollama Large Language Models
-  version: 0.40.17
-  origversion: null
-  status: newest
-  summary: Effortlessly run large language models locally with Ollama.
-- repo: chromebrew
-  srcname: ollama
-  visiblename: ollama
-  version: 0.40.16
-  origversion: null
-  status: outdated
-  summary: Get up and running with large language models.
-  licenses:
-    - MIT
 - repo: exherbo
   subrepo: heirecka
   srcname: machine-learning/ollama
@@ -341,9 +407,9 @@
   srcname: misc/ollama
   binname: ollama
   visiblename: misc/ollama
-  version: 0.40.16
-  origversion: 0.40.16_1
-  status: outdated
+  version: 0.40.17
+  origversion: null
+  status: newest
   summary: Run text/image LLMs and programming APIs locally and in the cloud
   maintainers:
     - yuri@freebsd.org
@@ -421,43 +487,10 @@
 - repo: manjaro_stable
   subrepo: extra
   srcname: ollama
-  binname: ollama-vulkan
-  visiblename: ollama-vulkan
-  version: 0.35.1
-  origversion: 0.35.1-1
-  status: outdated
-  summary: Create, run and share large language models (LLMs) with Vulkan
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: ollama
-  binname: ollama-docs
-  visiblename: ollama-docs
-  version: 0.35.1
-  origversion: 0.35.1-1
-  status: outdated
-  summary: Documentation for Ollama
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: ollama
-  binname: ollama-cuda
-  visiblename: ollama-cuda
-  version: 0.35.1
-  origversion: 0.35.1-1
-  status: outdated
-  summary: Create, run and share large language models (LLMs) with CUDA
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: ollama
   binname: ollama-rocm
   visiblename: ollama-rocm
-  version: 0.35.1
-  origversion: 0.35.1-1
+  version: 0.40.16
+  origversion: 0.40.16-1
   status: outdated
   summary: Create, run and share large language models (LLMs) with ROCm
   licenses:
@@ -465,15 +498,15 @@
 - repo: manjaro_stable
   subrepo: extra
   srcname: ollama
-  binname: ollama
-  visiblename: ollama
-  version: 0.35.1
-  origversion: 0.35.1-1
+  binname: ollama-docs
+  visiblename: ollama-docs
+  version: 0.40.16
+  origversion: 0.40.16-1
   status: outdated
-  summary: Create, run and share large language models (LLMs)
+  summary: Documentation for Ollama
   licenses:
     - MIT
-- repo: manjaro_testing
+- repo: manjaro_stable
   subrepo: extra
   srcname: ollama
   binname: ollama
@@ -484,7 +517,18 @@
   summary: Create, run and share large language models (LLMs)
   licenses:
     - MIT
-- repo: manjaro_testing
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-vulkan
+  visiblename: ollama-vulkan
+  version: 0.40.16
+  origversion: 0.40.16-1
+  status: outdated
+  summary: Create, run and share large language models (LLMs) with Vulkan
+  licenses:
+    - MIT
+- repo: manjaro_stable
   subrepo: extra
   srcname: ollama
   binname: ollama-cuda
@@ -498,110 +542,54 @@
 - repo: manjaro_testing
   subrepo: extra
   srcname: ollama
-  binname: ollama-vulkan
-  visiblename: ollama-vulkan
+  binname: ollama
+  visiblename: ollama
   version: 0.40.16
   origversion: 0.40.16-1
   status: outdated
-  summary: Create, run and share large language models (LLMs) with Vulkan
+  summary: Create, run and share large language models (LLMs)
   licenses:
     - MIT
 - repo: manjaro_testing
-  subrepo: extra
-  srcname: ollama
-  binname: ollama-docs
-  visiblename: ollama-docs
-  version: 0.40.16
-  origversion: 0.40.16-1
-  status: outdated
-  summary: Documentation for Ollama
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: ollama
-  binname: ollama-rocm
-  visiblename: ollama-rocm
-  version: 0.40.16
-  origversion: 0.40.16-1
-  status: outdated
-  summary: Create, run and share large language models (LLMs) with ROCm
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: ollama
-  binname: ollama-docs
-  visiblename: ollama-docs
-  version: 0.40.17
-  origversion: 0.40.17-1
-  status: newest
-  summary: Documentation for Ollama
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: ollama
-  binname: ollama-vulkan
-  visiblename: ollama-vulkan
-  version: 0.40.17
-  origversion: 0.40.17-1
-  status: newest
-  summary: Create, run and share large language models (LLMs) with Vulkan
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: ollama
-  binname: ollama-rocm
-  visiblename: ollama-rocm
-  version: 0.40.17
-  origversion: 0.40.17-1
-  status: newest
-  summary: Create, run and share large language models (LLMs) with ROCm
-  licenses:
-    - MIT
-- repo: manjaro_unstable
   subrepo: extra
   srcname: ollama
   binname: ollama-cuda
   visiblename: ollama-cuda
-  version: 0.40.17
-  origversion: 0.40.17-1
-  status: newest
+  version: 0.40.16
+  origversion: 0.40.16-1
+  status: outdated
   summary: Create, run and share large language models (LLMs) with CUDA
   licenses:
     - MIT
-- repo: manjaro_unstable
+- repo: manjaro_testing
   subrepo: extra
   srcname: ollama
-  binname: ollama
-  visiblename: ollama
-  version: 0.40.17
-  origversion: 0.40.17-1
-  status: newest
-  summary: Create, run and share large language models (LLMs)
+  binname: ollama-vulkan
+  visiblename: ollama-vulkan
+  version: 0.40.16
+  origversion: 0.40.16-1
+  status: outdated
+  summary: Create, run and share large language models (LLMs) with Vulkan
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: ollama-vulkan
-  visiblename: ollama
-  version: 0.21.1
-  origversion: null
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ollama
+  binname: ollama-docs
+  visiblename: ollama-docs
+  version: 0.40.16
+  origversion: 0.40.16-1
   status: outdated
-  summary: Get up and running with large language models locally, using Vulkan for generic GPU acceleration
-  maintainers:
-    - 7rat13@gmail.com
-    - pavol@rusnak.io
+  summary: Documentation for Ollama
   licenses:
     - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-ollama
   binname: mingw-w64-clang-x86_64-ollama
   visiblename: mingw-w64-clang-x86_64-ollama
-  version: 0.40.16
-  origversion: 0.40.16-1
-  status: outdated
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
   summary: Create, run and share large language models (LLMs) (mingw-w64)
   licenses:
     - spdx:MIT
@@ -609,9 +597,9 @@
   srcname: mingw-w64-ollama
   binname: mingw-w64-clang-aarch64-ollama
   visiblename: mingw-w64-clang-aarch64-ollama
-  version: 0.40.16
-  origversion: 0.40.16-1
-  status: outdated
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
   summary: Create, run and share large language models (LLMs) (mingw-w64)
   licenses:
     - spdx:MIT
@@ -619,9 +607,9 @@
   srcname: mingw-w64-ollama
   binname: mingw-w64-ucrt-x86_64-ollama
   visiblename: mingw-w64-ucrt-x86_64-ollama
-  version: 0.40.16
-  origversion: 0.40.16-1
-  status: outdated
+  version: 0.40.17
+  origversion: 0.40.17-1
+  status: newest
   summary: Create, run and share large language models (LLMs) (mingw-w64)
   licenses:
     - spdx:MIT
@@ -668,6 +656,18 @@
   origversion: null
   status: outdated
   summary: Get up and running with large language models locally, using ROCm for AMD GPU acceleration
+  maintainers:
+    - 7rat13@gmail.com
+    - pavol@rusnak.io
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: ollama-vulkan
+  visiblename: ollama
+  version: 0.21.1
+  origversion: null
+  status: outdated
+  summary: Get up and running with large language models locally, using Vulkan for generic GPU acceleration
   maintainers:
     - 7rat13@gmail.com
     - pavol@rusnak.io
@@ -731,9 +731,9 @@
 - repo: nix_unstable
   srcname: ollama
   visiblename: ollama
-  version: 0.40.16
+  version: 0.40.17
   origversion: null
-  status: outdated
+  status: newest
   summary: Get up and running with large language models locally
   maintainers:
     - pavol@rusnak.io
@@ -742,9 +742,9 @@
 - repo: nix_unstable
   srcname: ollama-cpu
   visiblename: ollama
-  version: 0.40.16
+  version: 0.40.17
   origversion: null
-  status: outdated
+  status: newest
   summary: Get up and running with large language models locally
   maintainers:
     - pavol@rusnak.io
@@ -753,9 +753,9 @@
 - repo: nix_unstable
   srcname: ollama-cuda
   visiblename: ollama
-  version: 0.40.16
+  version: 0.40.17
   origversion: null
-  status: outdated
+  status: newest
   summary: Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration
   maintainers:
     - pavol@rusnak.io
@@ -764,9 +764,9 @@
 - repo: nix_unstable
   srcname: ollama-rocm
   visiblename: ollama
-  version: 0.40.16
+  version: 0.40.17
   origversion: null
-  status: outdated
+  status: newest
   summary: Get up and running with large language models locally, using ROCm for AMD GPU acceleration
   maintainers:
     - pavol@rusnak.io
@@ -775,9 +775,9 @@
 - repo: nix_unstable
   srcname: ollama-vulkan
   visiblename: ollama
-  version: 0.40.16
+  version: 0.40.17
   origversion: null
-  status: outdated
+  status: newest
   summary: Get up and running with large language models locally, using Vulkan for generic GPU acceleration
   maintainers:
     - pavol@rusnak.io
@@ -818,8 +818,8 @@
     - ollama-debuginfo
     - ollama-debugsource
   visiblename: ollama
-  version: 0.40.9
-  origversion: 0.40.9-1.1
+  version: 0.40.16
+  origversion: 0.40.16-1.1
   status: outdated
   summary: Tool for running AI models on-premise
   licenses:
@@ -968,34 +968,6 @@
   summary: Get up and running with large language models
   maintainers:
     - termux@github
-- repo: alpine_3_23
-  subrepo: community
-  srcname: ollama
-  binname: ollama
-  visiblename: ollama
-  version: 0.13.0
-  origversion: 0.13.0-r0
-  status: outdated
-  summary: Download and run large language models locally (CPU)
-  maintainers:
-    - m@milesalan.com
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: alpine_3_23
-  subrepo: community
-  srcname: ollama
-  binname: ollama-doc
-  visiblename: ollama-doc
-  version: 0.13.0
-  origversion: 0.13.0-r0
-  status: outdated
-  summary: Download and run large language models locally (CPU) (documentation)
-  maintainers:
-    - m@milesalan.com
-  licenses:
-    - MIT
-  vulnerable: true
 - repo: fedora_42
   subrepo: release
   srcname: ollama
@@ -1027,6 +999,34 @@
     - Apache-2.0 AND MIT
   categories:
     - Unspecified
+  vulnerable: true
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ollama
+  binname: ollama
+  visiblename: ollama
+  version: 0.13.0
+  origversion: 0.13.0-r0
+  status: outdated
+  summary: Download and run large language models locally (CPU)
+  maintainers:
+    - m@milesalan.com
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ollama
+  binname: ollama-doc
+  visiblename: ollama-doc
+  version: 0.13.0
+  origversion: 0.13.0-r0
+  status: outdated
+  summary: Download and run large language models locally (CPU) (documentation)
+  maintainers:
+    - m@milesalan.com
+  licenses:
+    - MIT
   vulnerable: true
 - repo: fedora_44
   subrepo: release
